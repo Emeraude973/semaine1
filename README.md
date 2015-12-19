@@ -14,4 +14,3 @@ Simplonline est ma première formation
 ##Les raisons pour lesquels vous vous êtes inscrit sur Simplonline et qu'est-ce que vous attendez de la formation
 J'ai découvert la programmation par hasard ,et je ne peux plus m'en passer.
 Ce que j'attends de cette formation est d'avoir des bases solide et d'avantage de connaissance dans les languages de programmation.
-
