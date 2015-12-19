@@ -4,9 +4,11 @@ Sa va bientôt faire un an que je me suis lancé dans la programmation, et j'avo
 Sa me plaît au plus au point.
 
 ##Expérience professionnelle
-J'ai deux expériences professionnelle qui non rien à voir avec la programmation:
-*Esthéticienne
-*Secrétaire 
+J'ai deux expériences professionnelle qui non rien à voir avec la programmation:  
+   *Esthéticienne  
+   *Secrétaire 
+
+
 
 ##Formation
 Simplonline est ma première formation
